@@ -104,7 +104,7 @@ p {
 }
 
 .sitenav__item:not(:last-child) {
-	margin-bottom: 40px;
+	margin-right: 40px;
 }
 
 .sitenav__link {
